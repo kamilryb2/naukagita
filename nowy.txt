@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 slowa
+=======
+slowa
+>>>>>>> bfe51591dd588268256c7ed509b7d317e86b5dac
